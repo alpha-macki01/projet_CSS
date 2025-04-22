@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif,'Gill Sans MT',Calibri;
+    font-size: medium;
+}
+header{
+    background-color: #94c1cc;
+}
+nav{
+    background-color: #d0afcc;
+}
+main{
+    background-color: #f2f2f2;
+    font-size: 20px;
+}
+footer{
+    background-color: #85c5c2;
+}
+li{
+    display: inline;
+    width: 100px;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #4512b3;
+}
+p{
+    line-height: 30px;
+}
